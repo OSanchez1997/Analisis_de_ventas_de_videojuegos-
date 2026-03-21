@@ -1,4 +1,5 @@
 🎮 Análisis de Ventas de Videojuegos y Tendencias de Mercado
+
 📌 Descripción del proyecto
 
 Este proyecto tiene como objetivo analizar datos históricos de ventas de videojuegos para identificar los factores que determinan el éxito comercial en la industria. A través del análisis de plataformas, géneros, regiones y clasificaciones, se busca generar insights que apoyen la toma de decisiones estratégicas.
